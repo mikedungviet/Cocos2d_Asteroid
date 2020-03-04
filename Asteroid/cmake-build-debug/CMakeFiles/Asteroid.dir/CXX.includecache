@@ -2679,30 +2679,14 @@ GL/osmesa.h
 /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/AppDelegate.cpp
 AppDelegate.h
 /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/AppDelegate.h
-HelloWorldScene.h
-/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/HelloWorldScene.h
+Space.h
+/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/Space.h
 
 /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/AppDelegate.h
 cocos2d.h
 /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/cocos2d.h
 
-/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/HelloWorldScene.cpp
-HelloWorldScene.h
-/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/HelloWorldScene.h
-
-/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/HelloWorldScene.h
-cocos2d.h
-/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/cocos2d.h
-
-/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/proj.linux/main.cpp
-../Classes/AppDelegate.h
-/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/AppDelegate.h
-stdlib.h
--
-stdio.h
--
-unistd.h
--
-string
+/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/Space.h
+cocos/2d/CCScene.h
 -
 

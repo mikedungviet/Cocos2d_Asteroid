@@ -1,5 +1,7 @@
+
+
 #include "AppDelegate.h"
-#include "HelloWorldScene.h"
+#include "Space.h"
 
 USING_NS_CC;
 
@@ -7,7 +9,7 @@ AppDelegate::AppDelegate() {
 
 }
 
-AppDelegate::~AppDelegate() 
+AppDelegate::~AppDelegate()
 {
 }
 
@@ -16,11 +18,11 @@ bool AppDelegate::applicationDidFinishLaunching() {
     auto glview = director->getOpenGLView();
     if(!glview) {
         glview = GLViewImpl::create("Hello World");
-        glview->setFrameSize(640, 480);
+        glview->setFrameSize(1920, 1080);
         director->setOpenGLView(glview);
     }
 
-    auto scene = HelloWorld::createScene();
+    auto scene = Space::createScene();
     director->runWithScene(scene);
 
     return true;

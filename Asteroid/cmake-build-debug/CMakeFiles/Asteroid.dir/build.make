@@ -70,22 +70,35 @@ CMakeFiles/Asteroid.dir/Classes/AppDelegate.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Asteroid.dir/Classes/AppDelegate.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/AppDelegate.cpp -o CMakeFiles/Asteroid.dir/Classes/AppDelegate.cpp.s
 
-CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.o: CMakeFiles/Asteroid.dir/flags.make
-CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.o: ../Classes/HelloWorldScene.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.o -c /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/HelloWorldScene.cpp
+CMakeFiles/Asteroid.dir/Classes/Space.cpp.o: CMakeFiles/Asteroid.dir/flags.make
+CMakeFiles/Asteroid.dir/Classes/Space.cpp.o: ../Classes/Space.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Asteroid.dir/Classes/Space.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Asteroid.dir/Classes/Space.cpp.o -c /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/Space.cpp
 
-CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/HelloWorldScene.cpp > CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.i
+CMakeFiles/Asteroid.dir/Classes/Space.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Asteroid.dir/Classes/Space.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/Space.cpp > CMakeFiles/Asteroid.dir/Classes/Space.cpp.i
 
-CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/HelloWorldScene.cpp -o CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.s
+CMakeFiles/Asteroid.dir/Classes/Space.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Asteroid.dir/Classes/Space.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/Space.cpp -o CMakeFiles/Asteroid.dir/Classes/Space.cpp.s
+
+CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.o: CMakeFiles/Asteroid.dir/flags.make
+CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.o: ../Classes/SpaceShip.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.o -c /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/SpaceShip.cpp
+
+CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/SpaceShip.cpp > CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.i
+
+CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/SpaceShip.cpp -o CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.s
 
 CMakeFiles/Asteroid.dir/proj.linux/main.cpp.o: CMakeFiles/Asteroid.dir/flags.make
 CMakeFiles/Asteroid.dir/proj.linux/main.cpp.o: ../proj.linux/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Asteroid.dir/proj.linux/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Asteroid.dir/proj.linux/main.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Asteroid.dir/proj.linux/main.cpp.o -c /home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/proj.linux/main.cpp
 
 CMakeFiles/Asteroid.dir/proj.linux/main.cpp.i: cmake_force
@@ -99,14 +112,16 @@ CMakeFiles/Asteroid.dir/proj.linux/main.cpp.s: cmake_force
 # Object files for target Asteroid
 Asteroid_OBJECTS = \
 "CMakeFiles/Asteroid.dir/Classes/AppDelegate.cpp.o" \
-"CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.o" \
+"CMakeFiles/Asteroid.dir/Classes/Space.cpp.o" \
+"CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.o" \
 "CMakeFiles/Asteroid.dir/proj.linux/main.cpp.o"
 
 # External object files for target Asteroid
 Asteroid_EXTERNAL_OBJECTS =
 
 bin/Asteroid/Asteroid: CMakeFiles/Asteroid.dir/Classes/AppDelegate.cpp.o
-bin/Asteroid/Asteroid: CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.o
+bin/Asteroid/Asteroid: CMakeFiles/Asteroid.dir/Classes/Space.cpp.o
+bin/Asteroid/Asteroid: CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.o
 bin/Asteroid/Asteroid: CMakeFiles/Asteroid.dir/proj.linux/main.cpp.o
 bin/Asteroid/Asteroid: CMakeFiles/Asteroid.dir/build.make
 bin/Asteroid/Asteroid: lib/libcocos2d.a
@@ -148,7 +163,7 @@ bin/Asteroid/Asteroid: /usr/lib/x86_64-linux-gnu/libGLU.so
 bin/Asteroid/Asteroid: /usr/lib/x86_64-linux-gnu/libcurl.so
 bin/Asteroid/Asteroid: /usr/lib/x86_64-linux-gnu/libsqlite3.so
 bin/Asteroid/Asteroid: CMakeFiles/Asteroid.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable bin/Asteroid/Asteroid"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable bin/Asteroid/Asteroid"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Asteroid.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

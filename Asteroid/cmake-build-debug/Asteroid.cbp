@@ -930,10 +930,16 @@
 		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/AppDelegate.h">
 			<Option target="Asteroid"/>
 		</Unit>
-		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/HelloWorldScene.cpp">
+		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/Space.cpp">
 			<Option target="Asteroid"/>
 		</Unit>
-		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/HelloWorldScene.h">
+		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/Space.h">
+			<Option target="Asteroid"/>
+		</Unit>
+		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/SpaceShip.cpp">
+			<Option target="Asteroid"/>
+		</Unit>
+		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/SpaceShip.h">
 			<Option target="Asteroid"/>
 		</Unit>
 		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cocos2d/cocos/2d/CCAction.cpp">
@@ -4402,9 +4408,6 @@
 			<Option virtualFolder="CMake Files\cocos2d\cmake\Modules\"/>
 		</Unit>
 		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cocos2d/cmake/Modules/CocosConfigDepend.cmake">
-			<Option virtualFolder="CMake Files\cocos2d\cmake\Modules\"/>
-		</Unit>
-		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cocos2d/cmake/Modules/FindFontconfig.cmake">
 			<Option virtualFolder="CMake Files\cocos2d\cmake\Modules\"/>
 		</Unit>
 		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cocos2d/cmake/Modules/FindGTK3.cmake">

@@ -91,9 +91,6 @@
 		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cocos2d/cmake/Modules/CocosConfigDepend.cmake">
 			<Option virtualFolder="CMake Files\cocos2d\cmake\Modules\"/>
 		</Unit>
-		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cocos2d/cmake/Modules/FindFontconfig.cmake">
-			<Option virtualFolder="CMake Files\cocos2d\cmake\Modules\"/>
-		</Unit>
 		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cocos2d/cmake/Modules/FindGTK3.cmake">
 			<Option virtualFolder="CMake Files\cocos2d\cmake\Modules\"/>
 		</Unit>

@@ -319,32 +319,59 @@ Classes/AppDelegate.cpp.s:
 	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/AppDelegate.cpp.s
 .PHONY : Classes/AppDelegate.cpp.s
 
-Classes/HelloWorldScene.o: Classes/HelloWorldScene.cpp.o
+Classes/Space.o: Classes/Space.cpp.o
 
-.PHONY : Classes/HelloWorldScene.o
+.PHONY : Classes/Space.o
 
 # target to build an object file
-Classes/HelloWorldScene.cpp.o:
-	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.o
-.PHONY : Classes/HelloWorldScene.cpp.o
+Classes/Space.cpp.o:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/Space.cpp.o
+.PHONY : Classes/Space.cpp.o
 
-Classes/HelloWorldScene.i: Classes/HelloWorldScene.cpp.i
+Classes/Space.i: Classes/Space.cpp.i
 
-.PHONY : Classes/HelloWorldScene.i
+.PHONY : Classes/Space.i
 
 # target to preprocess a source file
-Classes/HelloWorldScene.cpp.i:
-	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.i
-.PHONY : Classes/HelloWorldScene.cpp.i
+Classes/Space.cpp.i:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/Space.cpp.i
+.PHONY : Classes/Space.cpp.i
 
-Classes/HelloWorldScene.s: Classes/HelloWorldScene.cpp.s
+Classes/Space.s: Classes/Space.cpp.s
 
-.PHONY : Classes/HelloWorldScene.s
+.PHONY : Classes/Space.s
 
 # target to generate assembly for a file
-Classes/HelloWorldScene.cpp.s:
-	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/HelloWorldScene.cpp.s
-.PHONY : Classes/HelloWorldScene.cpp.s
+Classes/Space.cpp.s:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/Space.cpp.s
+.PHONY : Classes/Space.cpp.s
+
+Classes/SpaceShip.o: Classes/SpaceShip.cpp.o
+
+.PHONY : Classes/SpaceShip.o
+
+# target to build an object file
+Classes/SpaceShip.cpp.o:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.o
+.PHONY : Classes/SpaceShip.cpp.o
+
+Classes/SpaceShip.i: Classes/SpaceShip.cpp.i
+
+.PHONY : Classes/SpaceShip.i
+
+# target to preprocess a source file
+Classes/SpaceShip.cpp.i:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.i
+.PHONY : Classes/SpaceShip.cpp.i
+
+Classes/SpaceShip.s: Classes/SpaceShip.cpp.s
+
+.PHONY : Classes/SpaceShip.s
+
+# target to generate assembly for a file
+Classes/SpaceShip.cpp.s:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.s
+.PHONY : Classes/SpaceShip.cpp.s
 
 proj.linux/main.o: proj.linux/main.cpp.o
 
@@ -398,9 +425,12 @@ help:
 	@echo "... Classes/AppDelegate.o"
 	@echo "... Classes/AppDelegate.i"
 	@echo "... Classes/AppDelegate.s"
-	@echo "... Classes/HelloWorldScene.o"
-	@echo "... Classes/HelloWorldScene.i"
-	@echo "... Classes/HelloWorldScene.s"
+	@echo "... Classes/Space.o"
+	@echo "... Classes/Space.i"
+	@echo "... Classes/Space.s"
+	@echo "... Classes/SpaceShip.o"
+	@echo "... Classes/SpaceShip.i"
+	@echo "... Classes/SpaceShip.s"
 	@echo "... proj.linux/main.o"
 	@echo "... proj.linux/main.i"
 	@echo "... proj.linux/main.s"
