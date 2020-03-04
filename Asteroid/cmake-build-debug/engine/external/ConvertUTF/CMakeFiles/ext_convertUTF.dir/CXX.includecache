@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cocos2d/external/ConvertUTF/ConvertUTF.h
+stddef.h
+-
+vector
+-
+string
+-
+
+/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cocos2d/external/ConvertUTF/ConvertUTFWrapper.cpp
+ConvertUTF.h
+/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cocos2d/external/ConvertUTF/ConvertUTF.h
+string
+-
+vector
+-
+stdint.h
+-
+assert.h
+-
+memory.h
+-
+
