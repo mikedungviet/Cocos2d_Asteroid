@@ -5,8 +5,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/AppDelegate.cpp" "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles/Asteroid.dir/Classes/AppDelegate.cpp.o"
+  "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/GameEntities/GameEntity.cpp" "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles/Asteroid.dir/Classes/GameEntities/GameEntity.cpp.o"
+  "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/GameEntities/SpaceShip.cpp" "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles/Asteroid.dir/Classes/GameEntities/SpaceShip.cpp.o"
+  "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/InputManager/KeyboardManager.cpp" "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles/Asteroid.dir/Classes/InputManager/KeyboardManager.cpp.o"
   "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/Space.cpp" "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles/Asteroid.dir/Classes/Space.cpp.o"
-  "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/SpaceShip.cpp" "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.o"
   "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/proj.linux/main.cpp" "/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cmake-build-debug/CMakeFiles/Asteroid.dir/proj.linux/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

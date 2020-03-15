@@ -319,6 +319,87 @@ Classes/AppDelegate.cpp.s:
 	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/AppDelegate.cpp.s
 .PHONY : Classes/AppDelegate.cpp.s
 
+Classes/GameEntities/GameEntity.o: Classes/GameEntities/GameEntity.cpp.o
+
+.PHONY : Classes/GameEntities/GameEntity.o
+
+# target to build an object file
+Classes/GameEntities/GameEntity.cpp.o:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/GameEntities/GameEntity.cpp.o
+.PHONY : Classes/GameEntities/GameEntity.cpp.o
+
+Classes/GameEntities/GameEntity.i: Classes/GameEntities/GameEntity.cpp.i
+
+.PHONY : Classes/GameEntities/GameEntity.i
+
+# target to preprocess a source file
+Classes/GameEntities/GameEntity.cpp.i:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/GameEntities/GameEntity.cpp.i
+.PHONY : Classes/GameEntities/GameEntity.cpp.i
+
+Classes/GameEntities/GameEntity.s: Classes/GameEntities/GameEntity.cpp.s
+
+.PHONY : Classes/GameEntities/GameEntity.s
+
+# target to generate assembly for a file
+Classes/GameEntities/GameEntity.cpp.s:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/GameEntities/GameEntity.cpp.s
+.PHONY : Classes/GameEntities/GameEntity.cpp.s
+
+Classes/GameEntities/SpaceShip.o: Classes/GameEntities/SpaceShip.cpp.o
+
+.PHONY : Classes/GameEntities/SpaceShip.o
+
+# target to build an object file
+Classes/GameEntities/SpaceShip.cpp.o:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/GameEntities/SpaceShip.cpp.o
+.PHONY : Classes/GameEntities/SpaceShip.cpp.o
+
+Classes/GameEntities/SpaceShip.i: Classes/GameEntities/SpaceShip.cpp.i
+
+.PHONY : Classes/GameEntities/SpaceShip.i
+
+# target to preprocess a source file
+Classes/GameEntities/SpaceShip.cpp.i:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/GameEntities/SpaceShip.cpp.i
+.PHONY : Classes/GameEntities/SpaceShip.cpp.i
+
+Classes/GameEntities/SpaceShip.s: Classes/GameEntities/SpaceShip.cpp.s
+
+.PHONY : Classes/GameEntities/SpaceShip.s
+
+# target to generate assembly for a file
+Classes/GameEntities/SpaceShip.cpp.s:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/GameEntities/SpaceShip.cpp.s
+.PHONY : Classes/GameEntities/SpaceShip.cpp.s
+
+Classes/InputManager/KeyboardManager.o: Classes/InputManager/KeyboardManager.cpp.o
+
+.PHONY : Classes/InputManager/KeyboardManager.o
+
+# target to build an object file
+Classes/InputManager/KeyboardManager.cpp.o:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/InputManager/KeyboardManager.cpp.o
+.PHONY : Classes/InputManager/KeyboardManager.cpp.o
+
+Classes/InputManager/KeyboardManager.i: Classes/InputManager/KeyboardManager.cpp.i
+
+.PHONY : Classes/InputManager/KeyboardManager.i
+
+# target to preprocess a source file
+Classes/InputManager/KeyboardManager.cpp.i:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/InputManager/KeyboardManager.cpp.i
+.PHONY : Classes/InputManager/KeyboardManager.cpp.i
+
+Classes/InputManager/KeyboardManager.s: Classes/InputManager/KeyboardManager.cpp.s
+
+.PHONY : Classes/InputManager/KeyboardManager.s
+
+# target to generate assembly for a file
+Classes/InputManager/KeyboardManager.cpp.s:
+	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/InputManager/KeyboardManager.cpp.s
+.PHONY : Classes/InputManager/KeyboardManager.cpp.s
+
 Classes/Space.o: Classes/Space.cpp.o
 
 .PHONY : Classes/Space.o
@@ -345,33 +426,6 @@ Classes/Space.s: Classes/Space.cpp.s
 Classes/Space.cpp.s:
 	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/Space.cpp.s
 .PHONY : Classes/Space.cpp.s
-
-Classes/SpaceShip.o: Classes/SpaceShip.cpp.o
-
-.PHONY : Classes/SpaceShip.o
-
-# target to build an object file
-Classes/SpaceShip.cpp.o:
-	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.o
-.PHONY : Classes/SpaceShip.cpp.o
-
-Classes/SpaceShip.i: Classes/SpaceShip.cpp.i
-
-.PHONY : Classes/SpaceShip.i
-
-# target to preprocess a source file
-Classes/SpaceShip.cpp.i:
-	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.i
-.PHONY : Classes/SpaceShip.cpp.i
-
-Classes/SpaceShip.s: Classes/SpaceShip.cpp.s
-
-.PHONY : Classes/SpaceShip.s
-
-# target to generate assembly for a file
-Classes/SpaceShip.cpp.s:
-	$(MAKE) -f CMakeFiles/Asteroid.dir/build.make CMakeFiles/Asteroid.dir/Classes/SpaceShip.cpp.s
-.PHONY : Classes/SpaceShip.cpp.s
 
 proj.linux/main.o: proj.linux/main.cpp.o
 
@@ -425,12 +479,18 @@ help:
 	@echo "... Classes/AppDelegate.o"
 	@echo "... Classes/AppDelegate.i"
 	@echo "... Classes/AppDelegate.s"
+	@echo "... Classes/GameEntities/GameEntity.o"
+	@echo "... Classes/GameEntities/GameEntity.i"
+	@echo "... Classes/GameEntities/GameEntity.s"
+	@echo "... Classes/GameEntities/SpaceShip.o"
+	@echo "... Classes/GameEntities/SpaceShip.i"
+	@echo "... Classes/GameEntities/SpaceShip.s"
+	@echo "... Classes/InputManager/KeyboardManager.o"
+	@echo "... Classes/InputManager/KeyboardManager.i"
+	@echo "... Classes/InputManager/KeyboardManager.s"
 	@echo "... Classes/Space.o"
 	@echo "... Classes/Space.i"
 	@echo "... Classes/Space.s"
-	@echo "... Classes/SpaceShip.o"
-	@echo "... Classes/SpaceShip.i"
-	@echo "... Classes/SpaceShip.s"
 	@echo "... proj.linux/main.o"
 	@echo "... proj.linux/main.i"
 	@echo "... proj.linux/main.s"

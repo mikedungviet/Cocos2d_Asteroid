@@ -58,12 +58,12 @@ endif()
 list(APPEND GAME_SOURCE
      Classes/AppDelegate.cpp
         Classes/Space.cpp
-        Classes/SpaceShip.cpp
+        Classes/GameEntities/SpaceShip.cpp
      )
 list(APPEND GAME_HEADER
      Classes/AppDelegate.h
         Classes/Space.h
-        Classes/SpaceShip.h
+        Classes/GameEntities/SpaceShip.h
      )
 
 if(ANDROID)
@@ -122,7 +122,7 @@ endif()
 set(all_code_files
     ${GAME_HEADER}
     ${GAME_SOURCE}
-    )
+        Classes/InputManager/KeyboardManager.cpp Classes/InputManager/KeyboardManager.h Classes/GameEntities/GameEntity.cpp Classes/GameEntities/GameEntity.h)
 if(NOT ANDROID)
     add_executable(${APP_NAME} ${all_code_files})
 else()

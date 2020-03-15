@@ -2676,17 +2676,13 @@ EGL/egl.h
 GL/osmesa.h
 -
 
-/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/AppDelegate.cpp
-AppDelegate.h
-/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/AppDelegate.h
-Space.h
-/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/Space.h
-
-/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/AppDelegate.h
+/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/GameEntities/GameEntity.cpp
+GameEntity.h
+/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/GameEntities/GameEntity.h
 cocos2d.h
-/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/cocos2d.h
+/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/GameEntities/cocos2d.h
 
-/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/Space.h
-cocos/2d/CCScene.h
+/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/GameEntities/GameEntity.h
+cocos/2d/CCSprite.h
 -
 

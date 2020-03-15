@@ -930,16 +930,28 @@
 		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/AppDelegate.h">
 			<Option target="Asteroid"/>
 		</Unit>
+		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/GameEntities/GameEntity.cpp">
+			<Option target="Asteroid"/>
+		</Unit>
+		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/GameEntities/GameEntity.h">
+			<Option target="Asteroid"/>
+		</Unit>
+		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/GameEntities/SpaceShip.cpp">
+			<Option target="Asteroid"/>
+		</Unit>
+		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/GameEntities/SpaceShip.h">
+			<Option target="Asteroid"/>
+		</Unit>
+		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/InputManager/KeyboardManager.cpp">
+			<Option target="Asteroid"/>
+		</Unit>
+		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/InputManager/KeyboardManager.h">
+			<Option target="Asteroid"/>
+		</Unit>
 		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/Space.cpp">
 			<Option target="Asteroid"/>
 		</Unit>
 		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/Space.h">
-			<Option target="Asteroid"/>
-		</Unit>
-		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/SpaceShip.cpp">
-			<Option target="Asteroid"/>
-		</Unit>
-		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/Classes/SpaceShip.h">
 			<Option target="Asteroid"/>
 		</Unit>
 		<Unit filename="/home/mikedungviet/Documents/Game_Projects/Cocos2d_Asteroid/Asteroid/cocos2d/cocos/2d/CCAction.cpp">
